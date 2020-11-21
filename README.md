@@ -4,20 +4,7 @@
 
 <hr>
 <p align="center">
-  <i><b>请欣赏动态美景</b></i>
 
-
-<img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
-
-### :sunglasses: About
-
-​	Hi！🙉
-
-​	后端：🔆🉑
-
-​	前端：💯🈲
-
-​	位置：㊙
 
 
 ### 🤝🏻 Tech Stack
@@ -29,7 +16,7 @@
 ### 👀 Active Repo
 <br />
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sniper-2&repo=davinci&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sniper-2&repo=three.js&theme=radical" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sniper-2&repo=metabase&theme=radical" />
 </p>
 
@@ -39,10 +26,6 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 
-### 🌱 Connect Me
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/9877ae06aeaa)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://dumplingbao.github.io/)[![Mail](https://img.shields.io/badge/-bmm_java@163.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bmm_java@163.com)
-
-![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
 
 
 
