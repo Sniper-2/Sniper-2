@@ -1,10 +1,8 @@
 ![header.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/header.png)
 
-<i><b>diss带码</b></i>
 
 <hr>
 <p align="center">
-  <i><b>请欣赏动态美景</b></i>
 
 
 <img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
@@ -29,8 +27,7 @@
 ### 👀 Active Repo
 <br />
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=	Sniper-2" />
 </p>
 
 ### 🙈 statistics
